@@ -24,9 +24,9 @@ I am a passionate learner and a fresher with a keen interest in Data Science, so
 
 ## Education
 
-- **Degree:** Bachelor’s in [Computer Science and Engineering]
-- **Institution:** [Sree Venkateswara College of Engineering]
-- **Graduation Year:** [2024]
+- **Degree:** Bachelor’s in Computer Science and Engineering
+- **Institution:** Sree Venkateswara College of Engineering
+- **Graduation Year:** 2024
 
 
 ## License
